@@ -20,7 +20,7 @@ ohos_cargo_crate("lib") {
 
   sources = [ "src/lib.rs" ]
   edition = "2021"
-  cargo_pkg_version = "1.0.76"
+  cargo_pkg_version = "1.0.92"
   cargo_pkg_authors =
       "David Tolnay <dtolnay@gmail.com>,  Alex Crichton <alex@alexcrichton.com>"
   cargo_pkg_name = "proc-macro2"
