@@ -1,5 +1,5 @@
 {
-  "name": "@ohos/rust_proc_macro2",
+  "name": "@ohos/rust_proc-macro2",
   "description": "A Rust library that provides support for error handling in procedural macros.",
   "version": "5.0",
   "license": "Apache License 2.0",
@@ -13,7 +13,7 @@
     "en": "README.md"
   },
   "component": {
-    "name": "rust_proc_macro2",
+    "name": "rust_proc-macro2",
     "subsystem": "thirdparty",
     "adapted_system_type": [
       "standard"
